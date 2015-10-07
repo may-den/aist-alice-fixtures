@@ -23,7 +23,7 @@
         "zendframework/zend-modulemanager": "~2.5",
         "fzaninotto/faker": "1.5.*@dev",
         "nelmio/alice": "^2.1",
-        "bacon/bacon-string-utils": "dev-master"
+        "bacon/bacon-string-utils": "1.0.3"
     },
     "autoload": {
         "psr-0": {
