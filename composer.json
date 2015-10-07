@@ -22,7 +22,7 @@
         "doctrine/doctrine-orm-module": "0.*",
         "zendframework/zend-modulemanager": "~2.5",
         "fzaninotto/faker": "1.5.*@dev",
-        "nelmio/alice": "2.0.*@dev",
+        "nelmio/alice": "^2.1",
         "bacon/bacon-string-utils": "dev-master"
     },
     "autoload": {
